@@ -71,3 +71,5 @@ Let's just be clear, [streets weren't exactly safe before the automobile](https:
 >Do you want to live in a driverless city full of cars, or in a city reclaimed from the automobile? Right now, for a little longer, it’s up to us.
 
 The article ends with this question. Unfortunately, as stated in the War on Cars Podcast this week, *we're losing*. Reclaiming our cities completely from cars is an undefined path. Planning policies for self-driving cars that make traffic violence a rarity, greatly reduce energy usage/CO2 emissions, and reclaim parking spaces, are within scope and desirable for urbanists. Writing articles with low quality arguments to *fight* the technology that could liberate us in the shortterm is irresponsible as people continue to die in a never ending fight. For my thoughts on that, [see here](http://urban.codes/posts/new-york-self-driving-car-benefits).
+
+I was disappointed in this article for many reasons, but mostly because the magazine billed it as a better debate on autonomous vehicles. Instead of that, we got misleading arguments followed by a plan with no implementation path: ban cars.
